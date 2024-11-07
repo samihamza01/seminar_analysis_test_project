@@ -1,0 +1,11 @@
+# build
+build
+
+# sdkconfig
+sdkconfig*
+
+# vscode configurations
+.vscode
+
+# clang static analyzer report
+warnings.txt
